@@ -1,0 +1,65 @@
+D:\Tin Le\COMPANY\Trung Viet\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\Tin Le\COMPANY\Trung Viet\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\Tin Le\COMPANY\Trung Viet\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+D:\Tin Le\COMPANY\Trung Viet\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Tin Le\COMPANY\Trung Viet\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Tin Le\COMPANY\Trung Viet\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+D:\Tin Le\COMPANY\Trung Viet\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+D:\Tin Le\COMPANY\Trung Viet\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+D:\Tin Le\COMPANY\Trung Viet\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+D:\Tin Le\COMPANY\Trung Viet\test\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+D:\Tin Le\COMPANY\Trung Viet\test\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+D:\Tin Le\COMPANY\Trung Viet\test\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+D:\Tin Le\COMPANY\Trung Viet\test\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\Tin Le\COMPANY\Trung Viet\test\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\Tin Le\COMPANY\Trung Viet\test\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+D:\Tin Le\COMPANY\Trung Viet\test\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Tin Le\COMPANY\Trung Viet\test\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Tin Le\COMPANY\Trung Viet\test\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+D:\Tin Le\COMPANY\Trung Viet\test\New folder\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+D:\Tin Le\COMPANY\Trung Viet\test\New folder\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+D:\Tin Le\COMPANY\Trung Viet\test\New folder\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+D:\Tin Le\COMPANY\Trung Viet\test\New folder\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\Tin Le\COMPANY\Trung Viet\test\New folder\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\Tin Le\COMPANY\Trung Viet\test\New folder\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+D:\Tin Le\COMPANY\Trung Viet\test\New folder\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Tin Le\COMPANY\Trung Viet\test\New folder\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Tin Le\COMPANY\Trung Viet\test\New folder\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+D:\Tin Le\COMPANY\Trung Viet\test\New folder\old\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+D:\Tin Le\COMPANY\Trung Viet\test\New folder\old\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+D:\Tin Le\COMPANY\Trung Viet\test\New folder\old\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+D:\Tin Le\COMPANY\Trung Viet\test\New folder\old\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\Tin Le\COMPANY\Trung Viet\test\New folder\old\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\Tin Le\COMPANY\Trung Viet\test\New folder\old\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+D:\Tin Le\COMPANY\Trung Viet\test\New folder\old\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Tin Le\COMPANY\Trung Viet\test\New folder\old\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Tin Le\COMPANY\Trung Viet\test\New folder\old\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+D:\Tin Le\COMPANY\Trung Viet\test\New folder\old\New folder\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+D:\Tin Le\COMPANY\Trung Viet\test\New folder\old\New folder\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+D:\Tin Le\COMPANY\Trung Viet\test\New folder\old\New folder\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+D:\Tin Le\COMPANY\Trung Viet\chuong trinh VB\Main\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Tin Le\COMPANY\Trung Viet\chuong trinh VB\Main\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Tin Le\COMPANY\Trung Viet\chuong trinh VB\Main\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+D:\Tin Le\COMPANY\Trung Viet\chuong trinh VB\Main\WindowsApplication2\bin\Debug\BARCODE SCANER V1.2.exe.manifest
+D:\Tin Le\COMPANY\Trung Viet\chuong trinh VB\Main\WindowsApplication2\bin\Debug\BARCODE SCANER V1.2.application
+D:\Tin Le\COMPANY\Trung Viet\chuong trinh VB\Main\WindowsApplication2\bin\Debug\BARCODE SCANER V1.2.exe
+D:\Tin Le\COMPANY\Trung Viet\chuong trinh VB\Main\WindowsApplication2\bin\Debug\BARCODE SCANER V1.2.pdb
+D:\Tin Le\COMPANY\Trung Viet\chuong trinh VB\Main\WindowsApplication2\bin\Debug\BARCODE SCANER V1.2.xml
+D:\Tin Le\COMPANY\Trung Viet\chuong trinh VB\Main\WindowsApplication2\obj\x86\Debug\BARCODE SCANER V1.2.exe.manifest
+D:\Tin Le\COMPANY\Trung Viet\chuong trinh VB\Main\WindowsApplication2\obj\x86\Debug\BARCODE SCANER V1.2.application
+D:\Tin Le\COMPANY\Trung Viet\chuong trinh VB\Main\WindowsApplication2\obj\x86\Debug\BARCODE SCANER V1.2.exe
+D:\Tin Le\COMPANY\Trung Viet\chuong trinh VB\Main\WindowsApplication2\obj\x86\Debug\BARCODE SCANER V1.2.xml
+D:\Tin Le\COMPANY\Trung Viet\chuong trinh VB\Main\WindowsApplication2\obj\x86\Debug\BARCODE SCANER V1.2.pdb
+D:\Tin Le\COMPANY\DDK\Du lieu\Chuong trinh VB\Main\WindowsApplication2\obj\x86\Debug\BARCODE SCANER V1.2.exe
+D:\Tin Le\COMPANY\DDK\Du lieu\Chuong trinh VB\Main\WindowsApplication2\obj\x86\Debug\BARCODE SCANER V1.2.xml
+D:\Tin Le\COMPANY\DDK\Du lieu\Chuong trinh VB\Main\WindowsApplication2\obj\x86\Debug\BARCODE SCANER V1.2.pdb
+D:\Tin Le\COMPANY\DDK\Du lieu\Chuong trinh VB\Main\WindowsApplication2\bin\Debug\BARCODE SCANER V1.2.exe.manifest
+D:\Tin Le\COMPANY\DDK\Du lieu\Chuong trinh VB\Main\WindowsApplication2\bin\Debug\BARCODE SCANER V1.2.application
+D:\Tin Le\COMPANY\DDK\Du lieu\Chuong trinh VB\Main\WindowsApplication2\bin\Debug\BARCODE SCANER V1.2.exe
+D:\Tin Le\COMPANY\DDK\Du lieu\Chuong trinh VB\Main\WindowsApplication2\bin\Debug\BARCODE SCANER V1.2.pdb
+D:\Tin Le\COMPANY\DDK\Du lieu\Chuong trinh VB\Main\WindowsApplication2\bin\Debug\BARCODE SCANER V1.2.xml
+D:\Tin Le\COMPANY\DDK\Du lieu\Chuong trinh VB\Main\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Tin Le\COMPANY\DDK\Du lieu\Chuong trinh VB\Main\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Tin Le\COMPANY\DDK\Du lieu\Chuong trinh VB\Main\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+D:\Tin Le\COMPANY\DDK\Du lieu\Chuong trinh VB\Main\WindowsApplication2\obj\x86\Debug\BARCODE SCANER V1.2.exe.manifest
+D:\Tin Le\COMPANY\DDK\Du lieu\Chuong trinh VB\Main\WindowsApplication2\obj\x86\Debug\BARCODE SCANER V1.2.application
